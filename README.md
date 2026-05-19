@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-📖 Bachelor degree in CS and used to be a coder
-📢 Speak in C/C++, Java, Python etc
-🚀 ex-cofounded a martech company backed up by several top VC firms
-🤔 Currently focus on talent recruitment in the fields of AI and Embodied Intelligence
-📧 My email chris.zhou@aliyun.com
-㊙️ My wechat ID chriszhou_01
-🏢 Shanghai
+- 📖 Bachelor degree in CS and used to be a coder
+- 📢 Speak in C/C++, Java, Python etc
+- 🚀 ex-cofounded a martech company backed up by several top VC firms
+- 🤔 Currently focus on talent recruitment in the fields of AI and Embodied Intelligence
+- 📧 My email chris.zhou@aliyun.com
+- ㊙️ My wechat ID chriszhou_01
+- 🏢 Shanghai
 
 <!--
 **chriszhou-sh/chriszhou-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
