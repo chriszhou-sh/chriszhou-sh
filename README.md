@@ -3,7 +3,7 @@
 - 📖 Bachelor degree in CS and used to be a coder
 - 📢 Speak in C/C++, Java, Python etc
 - 🚀 ex-cofounded a martech company backed up by several top VC firms
-- 🤔 Currently focus on talent recruitment in the fields of AI and Embodied Intelligence
+- 🤔 目前关注AI大模型，Agent，具身智能，量化等领域。
 - 📧 My email chris.zhou@aliyun.com
 - ㊙️ My wechat ID chriszhou_01
 - 🏢 Shanghai
